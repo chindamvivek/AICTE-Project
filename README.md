@@ -8,6 +8,6 @@
 - after training run main.py to view the web version of this project
 
 ## Dataset Link
-[Download dataset]((https://www.kaggle.com/datasets/shashwatwork/fruitnet-indian-fruits-dataset-with-quality))
+[Download dataset](https://www.kaggle.com/datasets/shashwatwork/fruitnet-indian-fruits-dataset-with-quality)
 
 ⚠️ After downloading, place the model,dataset in the root project directory before running the code.
